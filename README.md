@@ -3,4 +3,4 @@
 
 - 🌱 Adentrandome en el mundo de JavaScript
 - 🤔 Con gran interes en las Ciencias de Datos
-- ⚡ Me encanta el Voleyabll
+- ⚡ Me encanta el Voleyaball
