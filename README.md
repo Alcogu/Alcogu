@@ -1,7 +1,7 @@
 
 ### Trabajando constantemente en mis habilidades como programador
 
-- 🌱 Aprendiendo JavaScript y enfocado en el desarrollo Front-End
+- 🌱 Testing & QA
 - 🤔 Con gran interes en el desarrollo Web & Móvil
 - ⚡ Me encanta el Voleyaball
 
