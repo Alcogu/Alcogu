@@ -1,5 +1,5 @@
 
-### Trabajando constantemente en mis habilidades como programador
+### Trabajando constantemente en mis habilidades como Ingeniero de Software
 
 - 🌱 Testing & QA
 - 🤔 Con gran interes en el desarrollo Web & Móvil
