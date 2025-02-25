@@ -1,6 +1,6 @@
 
-### Trabajando constantemente en mis habilidades como Ingeniero de Software
+### Trabajando constantemente en mis habilidades como Ingeniero QA
 
-- 🌱 Integrante del semillero Sonar I.S.C. de la Universidad Tecnologica de Pereira
-- 🤔 En proceso de aprendizaje.... Automatizacion de pruebas
+- 🌱 Pruebas manuales y automatizadas (Cypress)
+- 🤔 En constante aprendizaje
 - ⚡ Me encanta el Voleyaball
